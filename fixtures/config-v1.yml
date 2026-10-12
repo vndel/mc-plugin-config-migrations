@@ -1,0 +1,5 @@
+schema-version: 1
+messages:
+  prefix: "[Example] "
+features:
+  metrics: false
